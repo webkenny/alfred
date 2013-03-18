@@ -3,7 +3,7 @@ tell application "System Events" to tell (process 1 where frontmost is true)
 end tell
 tell application (path to frontmost application as text) to tell document 1
     tell characters c1 thru c2
-        set font to "Courier New"
+        set font to "Andale Mono"
         set size to 14
     end tell
 end tell
