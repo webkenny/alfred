@@ -1,4 +1,4 @@
-alfred 2.0 Workflows by @webkenny
+Alfred 2.0 Workflows by @webkenny
 ======
 
 A collection of workflows for Alfred 2.0
